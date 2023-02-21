@@ -1,0 +1,11 @@
+LICENSE
+setup.py
+apirest/__init__.py
+apirest/models.py
+apirest/routes.py
+apirest/views.py
+apirest.egg-info/PKG-INFO
+apirest.egg-info/SOURCES.txt
+apirest.egg-info/dependency_links.txt
+apirest.egg-info/requires.txt
+apirest.egg-info/top_level.txt
